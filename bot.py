@@ -80,8 +80,9 @@ async def tz(ctx, ins=None, *tmzs):
         result = ""
         timezs = return_tzs_for_stored()
         for tzs, times in timezs.items():
+            
             tzs += "-" * (20 - len(tzs))
-            result += tzs + "--------" + times + "\n"
+            result += "```"+tzs + times + "```"+"\n"
 
         await ctx.send(result)
     
