@@ -1,0 +1,16 @@
+Team_Formation = 9:00AM 6 24
+Opening_Ceremony = 10:00AM 6 24
+Hacking_Starts = 11:00AM 6 24
+(event) Intro_to_Web_Dev = 12:00PM 6 24
+(event) Scribbleio = 3:00PM 6 24
+(event) Intro_To_Cloud_Engineering = 5:00PM 6 24
+(event) Intro_To_Deep_Learning_With_Tensorflow = 6:30PM 6 24
+(event) TypeRacer_Competition = 9:00PM 6 24
+(event) Brainstorming_like_an_Entrepreneur = 10:30AM 6 25
+(event) A_Realistic_Day_in_the_Life_Of_a_Software_Engineer = 2:00PM 6 25
+(event) JS_Tricks = 3:00PM 6 25
+(event) Find_Your_Passion_In_Tech = 7:00PM 6 25
+(event) Intro_To_Java = 9:00PM 6 25
+Devpost_Submission_Help = 9:00AM 6 26
+Soft_Submission_deadline = 9:30AM 6 26
+Hard_Submission_Deadline = 10:00AM 6 26
