@@ -1,5 +1,5 @@
 import unittest
-from tz_manager import *
+from src.tz_manager import *
 from datetime import datetime
 
 

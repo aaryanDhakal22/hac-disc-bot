@@ -14,3 +14,6 @@ Hacking_Starts = 11:00AM 6 24
 Devpost_Submission_Help = 9:00AM 6 26
 Soft_Submission_deadline = 9:30AM 6 26
 Hard_Submission_Deadline = 10:00AM 6 26
+(event) End_Of_Hacking_Kahoot = 11:00AM 6 25
+Judging_Ends = 4:00PM 6 26
+Closing_Ceremony = 5:00PM 6 26

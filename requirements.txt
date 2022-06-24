@@ -14,7 +14,6 @@ platformdirs==2.5.2
 pyjokes==0.6.0
 python-dotenv==0.20.0
 pytz==2022.1
-tinydb==4.7.0
 tomli==2.0.1
 typing_extensions==4.2.0
 yarl==1.7.2
