@@ -6,7 +6,7 @@ def timezone_est_datetime(hour,minute,day,month):
     return result
 
 def return_schedule_for_stored():
-    sc_file = open("../assets/schedule_list.txt", "r")
+    sc_file = open("./assets/schedule_list.txt", "r")
     sc_content = sc_file.readlines()
     schedules = []
     for item in sc_content:

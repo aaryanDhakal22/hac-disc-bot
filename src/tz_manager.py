@@ -28,7 +28,7 @@ def time_for_zone(tz_list):
 
 
 def return_tzs_for_stored():
-    tz_file = open("../assets/timezone_list.txt", "r")
+    tz_file = open("./assets/timezone_list.txt", "r")
     tz_content = tz_file.readlines()
     tzs = [item.strip() for item in tz_content]
     tz_file.close()
